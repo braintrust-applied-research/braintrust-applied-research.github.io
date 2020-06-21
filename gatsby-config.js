@@ -18,9 +18,13 @@ module.exports = {
     siteUrl: `https://braintrustappliedresearch.com`,
     social: [
       {
-        name: "twitter",
+        name: "Twitter",
         url: "https://twitter.com/BraintrustAR",
-      }
+      },
+      {
+      	name: "GitHub",
+      	url: null,
+      },
     ],
   },
 }
